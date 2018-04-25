@@ -5,3 +5,5 @@
 
 ## 2. Algorithm
 
+### 2.1 Concept preparation
+* ROC curve - [Wiki pedia explanation](https://zh.wikipedia.org/wiki/ROC曲线)
